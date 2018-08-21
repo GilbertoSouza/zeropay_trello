@@ -1,28 +1,14 @@
-# Project client develope with React
+# Project Trello develope with React
 
 
-### Software develop by Pontti
-![Print chat](./public/images/logo.png)
-
-### Libraries used
-* [React]
-* [Redux]
-* [Redux-Thunk]
-* [React-Fontawesome]
-* [React-Loadable]
-* [Material-ui for React]
-* [Font-Awesome]
-* [Prop-Types]
-* [Enzyme]
-* [Enzyme-adapter-react-16]
-* [Enzyme-to-json]
-* [Jest]
+### Software develop by Gilberto Souza
+![Print chat](./public/images/banner_zeropay.png)
 
 
 ### Installation
 Clone this repository and install dependency with `yarn install` or `npm install`
 ```sh
-$ cd trello-react
+$ cd zeropay_trello
 $ yarn install
 $ yarn start or npm start
 ```
