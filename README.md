@@ -1,5 +1,5 @@
-# Project Trello develope with NodeJS and React
-A project based on
+# A project based on Trello develope with NodeJS and React
+
 
 
 ### Software develop by Gilberto Souza
