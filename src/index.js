@@ -34,7 +34,7 @@ db
                                     <span className="icon-bar"></span>
                                 </button>
                                 <a href="" className="navbar-brand">
-                                    <img src="/images/tilst.png" className="img-responsive" alt="Tilst" />
+                                    <img src="/images/zeropay.png" className="img-responsive" alt="Tilst" />
                                 </a>
                             </div>
                             <div className="navbar-collapse collapse" id="navbar">

@@ -48,7 +48,7 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        createPanel: () => dispatch(PanelActions.createPanel('')),
+        createPanel: () => dispatch(PanelActions.createPanel('New Panel')),
         editPanel: (id, value) => {
             const edited = { id }
 
